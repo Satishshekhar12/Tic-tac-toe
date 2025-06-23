@@ -32,9 +32,9 @@ A simple Tic-tac-toe game built with React.js. Play against a friend and see who
 ### Running the App
 Start the development server:
 ```
-npm start
+npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open link to view it in your browser.
 
 ## Usage
 Click on any square to make your move. The game will announce the winner or a draw. Click "Restart" to play again.
